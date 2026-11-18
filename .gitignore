@@ -1,0 +1,17 @@
+# secrets: your filled-in settings and Twitch login
+.env
+.env.*
+!.env.example
+.twitch-token.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
